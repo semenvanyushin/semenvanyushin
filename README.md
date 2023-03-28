@@ -8,7 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-3-00bfff)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-2%20--%204-00bfff)](https://www.djangoproject.com/)
 [![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-3%20-00bfff)](https://www.django-rest-framework.org/)
-
+<hr>
 <h7><strong>Контакты:</strong></h7><br>
 [![Telegram](https://img.shields.io/badge/Telegram-%40semenvanyushin-57b9ff)](https://t.me/semenvanyushin)
 [![Email](https://img.shields.io/badge/email-semenvanyushin%40yandex.ru-ffe033)](mailto:semenvanyushin@yandex.ru)
