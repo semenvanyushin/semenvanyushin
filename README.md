@@ -6,7 +6,7 @@
 <h7><strong>Стек технологий:</strong> Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 5, HTML5, CSS, git, unittest, venv, API, json, Linux, nginx, CI/CD, другие</h7><hr>
 
 <h7>Контакты: </h7>
-![Telegram]([https://img.shields.io/badge/Telegram-%40semenvanyushin-57b9ff](https://t.me/semenvanyushin))
+![Telegram](https://img.shields.io/badge/Telegram-%40semenvanyushin-57b9ff)
 ![Email](https://img.shields.io/badge/email-semenvanyushin%40yandex.ru-ffe033)
 <hr>
 
