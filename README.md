@@ -5,13 +5,17 @@
 <br>
 <h7><strong>Стек технологий:</strong> Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 5, HTML5, CSS, git, unittest, venv, API, json, Linux, nginx, CI/CD, другие</h7><hr>
 <h7><strong>Основной стек технологий: </strong></h7><br>
+<div>
 [![Python](https://img.shields.io/badge/Python-3-00bfff)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-2%20--%204-00bfff)](https://www.djangoproject.com/)
 [![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-3%20-00bfff)](https://www.django-rest-framework.org/)
+</div>
 <hr>
+<div>
 <h7><strong>Контакты:</strong></h7><br>
 [![Telegram](https://img.shields.io/badge/Telegram-%40semenvanyushin-57b9ff)](https://t.me/semenvanyushin)
 [![Email](https://img.shields.io/badge/email-semenvanyushin%40yandex.ru-ffe033)](mailto:semenvanyushin@yandex.ru)
+</div>
 <hr>
 
 <div>
