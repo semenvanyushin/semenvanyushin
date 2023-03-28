@@ -7,7 +7,7 @@
 
 <h7><strong>Контакты:</strong></h7><br>
 [![Telegram](https://img.shields.io/badge/Telegram-%40semenvanyushin-57b9ff)](https://t.me/semenvanyushin)
-[![Email](https://img.shields.io/badge/email-semenvanyushin%40yandex.ru-ffe033)](semenvanyushin@yandex.ru)
+[![Email](https://img.shields.io/badge/email-semenvanyushin%40yandex.ru-ffe033)](mailto:semenvanyushin@yandex.ru)
 <hr>
 
 <div>
